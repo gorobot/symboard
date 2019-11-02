@@ -1,0 +1,19 @@
+{
+  "name": "symboard",
+  "version": "0.1.0",
+  "description": "Atom editor for symbolic math.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorobot/symboard.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gorobot/symboard/issues"
+  },
+  "homepage": "https://github.com/gorobot/symboard#readme"
+}
